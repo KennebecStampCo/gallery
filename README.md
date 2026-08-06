@@ -1,2 +1,3 @@
 Kennebec Stamp Company Image Repository
-Public image hosting for eBay listings and other online galleries.
+
+Public image hosting for eBay listings and online stamp galleries.
